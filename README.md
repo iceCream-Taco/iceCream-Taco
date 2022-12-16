@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently, the public repositories below are old projects started to explore a new framework/language/library. As such, they are not polished, efficient, nor good code in general. Hopefully I'll come up with some good project ideas sometime soon. Until then, the only thing you'll find here is code to make your eyes bleed.
+
 <!--
 **iceCream-Taco/iceCream-Taco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
